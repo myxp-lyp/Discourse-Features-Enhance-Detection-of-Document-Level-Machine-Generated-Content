@@ -9,4 +9,6 @@ This is readme of the above paper.
 3. Use DTransformer.py to predict the results
 NOTE that transformer dependencies has to replace the original one as we have hierarchy level transformer
 
+The writingprompts dataset are available in as it is too large.
+
 We also provided revised_text.txt, which contains 3 documents and 10 paragraphs specified in the paper. These were randomly selected from writingpromts test set. 
